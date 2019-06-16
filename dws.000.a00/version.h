@@ -28,7 +28,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 #define REL "R"
 #endif
 /*********** **************/
-#define COMPILED "12"  
+#define COMPILED "16"  
 /* this is not automated and the first one may not be 0 or 1 */
 /*********** ************* ********************* ************************* */
 #define COMMENT "\nDemo world with singleton as starting point for\n"\

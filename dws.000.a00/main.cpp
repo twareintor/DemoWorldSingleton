@@ -10,6 +10,9 @@
 /**  */
 int main()
 {
+	printVersion();
+	std::cout<<"\n\n";
+	
     CWorld* world = CWorld::getInstance(nullptr);
     CWorld* world2 = CWorld::getInstance(nullptr);
     CWorld* world3 = world;
